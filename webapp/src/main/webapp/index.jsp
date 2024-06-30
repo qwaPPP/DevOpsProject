@@ -1,4 +1,4 @@
-<h1>Updated 27.06.2024 - 2</h1>
+<h1>Updated 30.06.2024 - 2</h1>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
